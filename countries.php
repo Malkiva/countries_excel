@@ -1,4 +1,4 @@
-	<?php
+<?php
 
 		require_once 'function.php';
 		require_once 'get_countries.php';	
